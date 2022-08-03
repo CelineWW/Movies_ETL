@@ -1,23 +1,23 @@
 # Movies-ETL
 
 ## Overview of ETL process
-To get the 
-1.  Use ChromeDrivetest Mars news, Featu
-2.  Store 
+ * This project is aiming to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data. Then perform performs the ETL process to load the data into a PostgreSQL database.
+1.  Write a function extract_transform_load(ETL) that reads in the three data files from appropriate paths. 
+2.  Convert three files to separate Pandas DataFrames.
 3.  Create i
 4.  Set up a
 5.  Update web
 
 ## Results
-- **Latest Mars news**
+- **Wikipedia data**
 
 
 
-- **Featured Mars Images**
+- **Kaggle metadata**
 
 
 
-- **Mars Facts**
+- **the MovieLens rating data**
 
 
 
