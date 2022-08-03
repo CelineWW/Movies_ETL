@@ -15,7 +15,7 @@
     2. movies_df data frame ![movies_df](https://user-images.githubusercontent.com/105877888/182679601-b4a508f5-4bb2-4127-b2de-85932001483a.PNG)
     3. movies_with_ratings_df dataframe ![movies_with_ratings_df](https://user-images.githubusercontent.com/105877888/182679619-4b17259f-739e-405e-bea8-312b2cc15ff1.PNG)
 
-- **Import into SQL database**
+- **Import into SQL Movie database**
     1. ETL processing
   ![ratings_importing](https://user-images.githubusercontent.com/105877888/182679870-1517bfed-c79a-48e6-8d35-c36a1915f103.PNG)
 
