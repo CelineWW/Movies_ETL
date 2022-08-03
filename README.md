@@ -27,7 +27,6 @@
 
 
 ## Summary
-
-  - Latest Mars news and images were success
-  - Latest news is absolutely exciting.  and added to the site too. Then people can get a better sense of the history of Mars discovery.
-  - Even though we have changed somp  the trip?" "Do you believe there were lifes existing on Mars"?  
+  - Three file resouces with two different file types(csv and json files) were all imported into pandas library. File data were cleaned up with various method and converted into data frames, which were easier to read. 
+  - All useful data were imported into SQL database. This is a convenient way to hold the meta data.
+  - To do more specific researches about on movie data, we can do neccessery queries from Movie database and export the results later. 
