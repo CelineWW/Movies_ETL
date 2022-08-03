@@ -1,7 +1,7 @@
 # Movies-ETL
 
 ## Overview of ETL process
- * This project is aiming to create one function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data. Then perform performs the ETL process to load the data into a PostgreSQL database.
+ * This project is aiming to create a function that takes in the three files—Wikipedia data, Kaggle metadata, and the MovieLens rating data, then performs the ETL process to load the data into a PostgreSQL database. 
 1.  Write a function extract_transform_load(ETL) that reads in the three data files from appropriate paths. 
 2.  Convert three files to separate Pandas DataFrames.
 3.  Clean up Wikipedia data and Kaggle metadata. Including dropping and combining columns, removing missing data, changing data type, and formatting messing data with Regex.
@@ -15,7 +15,7 @@
 ![wiki_movies_df](https://user-images.githubusercontent.com/105877888/182679583-070c02e3-9995-46d8-9904-6a714e47c8dd.PNG)
 
 
-- **movies__df**
+- **movies_df**
 
 ![movies_df](https://user-images.githubusercontent.com/105877888/182679601-b4a508f5-4bb2-4127-b2de-85932001483a.PNG)
 
@@ -25,6 +25,7 @@
 ![movies_with_ratings_df](https://user-images.githubusercontent.com/105877888/182679619-4b17259f-739e-405e-bea8-312b2cc15ff1.PNG)
 
 - **Import into SQL database**
+  - ETL processing
 
   ![ratings_importing](https://user-images.githubusercontent.com/105877888/182679870-1517bfed-c79a-48e6-8d35-c36a1915f103.PNG)
 
