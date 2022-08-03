@@ -11,29 +11,18 @@
 
 ## Results
   - **Data frames**
-    1. wiki_movies_df data frame 
-
-![wiki_movies_df](https://user-images.githubusercontent.com/105877888/182679583-070c02e3-9995-46d8-9904-6a714e47c8dd.PNG)
-
-     2. movies_df data frame
-
-![movies_df](https://user-images.githubusercontent.com/105877888/182679601-b4a508f5-4bb2-4127-b2de-85932001483a.PNG)
-
-    3. movies_with_ratings_df dataframe
-
-![movies_with_ratings_df](https://user-images.githubusercontent.com/105877888/182679619-4b17259f-739e-405e-bea8-312b2cc15ff1.PNG)
+    1. wiki_movies_df data frame![wiki_movies_df](https://user-images.githubusercontent.com/105877888/182679583-070c02e3-9995-46d8-9904-6a714e47c8dd.PNG)
+    2. movies_df data frame ![movies_df](https://user-images.githubusercontent.com/105877888/182679601-b4a508f5-4bb2-4127-b2de-85932001483a.PNG)
+    3. movies_with_ratings_df dataframe ![movies_with_ratings_df](https://user-images.githubusercontent.com/105877888/182679619-4b17259f-739e-405e-bea8-312b2cc15ff1.PNG)
 
 - **Import into SQL database**
     1. ETL processing
-
   ![ratings_importing](https://user-images.githubusercontent.com/105877888/182679870-1517bfed-c79a-48e6-8d35-c36a1915f103.PNG)
 
     2. Movies table
-    
 ![movies_query](https://user-images.githubusercontent.com/105877888/182679911-491f9faa-ca24-4431-9655-736b67fe1a74.PNG)
 
     3. Ratings tabel
- 
 ![ratings_query](https://user-images.githubusercontent.com/105877888/182679921-8e63a4ff-50de-4305-a003-99e53bb1ef5f.PNG)
 
 
