@@ -7,20 +7,19 @@
 3.  Clean up Wikipedia data and Kaggle metadata. Including dropping and combining columns, removing missing data, changing data type, and formatting messing data with Regex.
 4.  Merge cleaned wiki_movies_df and kaggle_metadata to a new data frame movies__df.
 5.  Transform and merge the ratings DataFrame into movies__df to get movies_with_ratings_df.
-6.  Add movies_df DataFrame and MovieLens rating CSV data to a SQL database.Check movies table and ratings tabel to comfirm the import.
+6.  Add movies_df DataFrame and MovieLens rating CSV data to a SQL database. Check movies table and ratings tabel to comfirm the import.
 
 ## Results
-- **wiki_movies_df**
+- **data frames**
+  - wiki_movies_df data frame 
 
 ![wiki_movies_df](https://user-images.githubusercontent.com/105877888/182679583-070c02e3-9995-46d8-9904-6a714e47c8dd.PNG)
 
-
-- **movies_df**
+  - movies_df data frame
 
 ![movies_df](https://user-images.githubusercontent.com/105877888/182679601-b4a508f5-4bb2-4127-b2de-85932001483a.PNG)
 
-
-- **movies_with_ratings_df**
+  - movies_with_ratings_df dataframe
 
 ![movies_with_ratings_df](https://user-images.githubusercontent.com/105877888/182679619-4b17259f-739e-405e-bea8-312b2cc15ff1.PNG)
 
